@@ -25,10 +25,26 @@
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
 
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<a href="https://www.sqlalchemy.org" target="_blank">
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white">
 </a>
 
-<a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<a href="https://git-scm.com" target="_blank">
+    <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://www.wireshark.org" target="_blank">
+    <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
+</a>
+
+<a href="https://www.docker.com" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+
+<a href="https://docs.docker.com" target="_blank">
+    <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+
+<a href="https://www.proxmox.com/en/" target="_blank">
+    <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
 </a>
